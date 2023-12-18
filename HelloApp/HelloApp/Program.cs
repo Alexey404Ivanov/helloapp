@@ -2,6 +2,10 @@
 
 public class Program
 {
+    public static void GreetBlack()
+    {
+        Console.WriteLine("hello black");
+    }
     public static void GreetWhite()
     {
         Console.WriteLine("hello white");
